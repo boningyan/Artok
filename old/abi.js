@@ -1,18 +1,5 @@
-let contractAddress = "0x4a7339cD910E5A6f441b31Eae67A7303d325cE90"
-let contractABI = [
-	{
-		"anonymous": false,
-		"inputs": [
-			{
-				"indexed": false,
-				"internalType": "uint256",
-				"name": "num",
-				"type": "uint256"
-			}
-		],
-		"name": "NumberAddedEvent",
-		"type": "event"
-	},
+let contractAddress = "0x5332AEe5c6A88812057FA8fF590a99a7416d7A31"
+let abi = [
 	{
 		"inputs": [
 			{
